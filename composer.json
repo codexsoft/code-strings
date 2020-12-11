@@ -15,7 +15,7 @@
         "source": "https://github.com/codexsoft/code-strings"
     },
     "require": {
-        "php": "^7.2.0",
+        "php": "^7.2|^8.0",
         "ext-mbstring": "*"
     },
     "require-dev": {
